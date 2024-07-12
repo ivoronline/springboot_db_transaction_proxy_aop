@@ -8,7 +8,7 @@ import java.sql.Connection;
 
 @Aspect
 @Component
-public class ProxyConfig {
+public class AOPConfig {
 
   //PROPERTIES
   @Autowired Connection connection;
